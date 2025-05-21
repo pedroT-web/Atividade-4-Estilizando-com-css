@@ -1,6 +1,10 @@
 *{
+    margin: 0;
+}
+.fundo{
     text-align: center;  
     background-color: burlywood;
+    heigth: 100vh;
 }
 .titulo{
     color: blueviolet ;
